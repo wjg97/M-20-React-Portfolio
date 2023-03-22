@@ -15,6 +15,7 @@
   - [User Story](#userStory)
   - [Acceptance Criteria](#acceptanceCriteria)
   - [Screenshot](#screenShot)
+  - [Link](#link)
   - [Questions](#questions)
 
   ## Installation
@@ -65,7 +66,10 @@
   THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
   ## Screenshot
-  undefined
+  ![Screenshot 2023-03-20 at 9 34 36 PM](https://user-images.githubusercontent.com/113846649/226785116-054c8ecb-caf3-4f5b-bd85-3106085b5034.png)
+
+  ## Link
+  https://wjg97.github.io/M-20-React-Portfolio/
 
   ## Questions
   Contact Me<br />
