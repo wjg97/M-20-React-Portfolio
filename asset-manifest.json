@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.922da46a.css",
-    "main.js": "/static/js/main.87289e6d.js",
-    "static/media/me-fishing.jpeg": "/static/media/me-fishing.23dd8e4894c0ed11c467.jpeg",
-    "static/media/Adoption.png": "/static/media/Adoption.6b0c12ffeaa7c40d9fe9.png",
-    "static/media/USAtSpot.JPG": "/static/media/USAtSpot.d42ea377dd67a8af7f7a.JPG",
-    "static/media/noteTaker.png": "/static/media/noteTaker.d994ff071cae6af3f9db.png",
-    "static/media/Gateway.jpg": "/static/media/Gateway.70f66d8d82be91322a2c.jpg",
-    "static/media/codersCuisine.png": "/static/media/codersCuisine.406aad61a52b3b949bef.png",
-    "static/media/Moms.jpeg": "/static/media/Moms.21e3bb729c5881635f54.jpeg",
-    "static/media/resume.pdf": "/static/media/resume.f177ef294d3096801bd3.pdf",
-    "index.html": "/index.html",
-    "main.922da46a.css.map": "/static/css/main.922da46a.css.map",
-    "main.87289e6d.js.map": "/static/js/main.87289e6d.js.map"
+    "main.css": "/M-20-React-Portfolio/static/css/main.922da46a.css",
+    "main.js": "/M-20-React-Portfolio/static/js/main.13a25722.js",
+    "static/media/me-fishing.jpeg": "/M-20-React-Portfolio/static/media/me-fishing.23dd8e4894c0ed11c467.jpeg",
+    "static/media/Adoption.png": "/M-20-React-Portfolio/static/media/Adoption.6b0c12ffeaa7c40d9fe9.png",
+    "static/media/USAtSpot.JPG": "/M-20-React-Portfolio/static/media/USAtSpot.d42ea377dd67a8af7f7a.JPG",
+    "static/media/noteTaker.png": "/M-20-React-Portfolio/static/media/noteTaker.d994ff071cae6af3f9db.png",
+    "static/media/Gateway.jpg": "/M-20-React-Portfolio/static/media/Gateway.70f66d8d82be91322a2c.jpg",
+    "static/media/codersCuisine.png": "/M-20-React-Portfolio/static/media/codersCuisine.406aad61a52b3b949bef.png",
+    "static/media/Moms.jpeg": "/M-20-React-Portfolio/static/media/Moms.21e3bb729c5881635f54.jpeg",
+    "static/media/resume.pdf": "/M-20-React-Portfolio/static/media/resume.f177ef294d3096801bd3.pdf",
+    "index.html": "/M-20-React-Portfolio/index.html",
+    "main.922da46a.css.map": "/M-20-React-Portfolio/static/css/main.922da46a.css.map",
+    "main.13a25722.js.map": "/M-20-React-Portfolio/static/js/main.13a25722.js.map"
   },
   "entrypoints": [
     "static/css/main.922da46a.css",
-    "static/js/main.87289e6d.js"
+    "static/js/main.13a25722.js"
   ]
 }
