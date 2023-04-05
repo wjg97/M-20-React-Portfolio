@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import adopt from '../assets/projectPhotos/Adoption.png';
 import coders from '../assets/projectPhotos/codersCuisine.png';
 import notes from '../assets/projectPhotos/noteTaker.png';
+import car from '../assets/projectPhotos/cars.png'
 
 const Photos = ({ category }) => {
     return (
@@ -45,6 +46,19 @@ const Photos = ({ category }) => {
                 href='https://big-kitty-module-11.herokuapp.com/'
                 target='_blank'
                 onClick={'https://big-kitty-module-11.herokuapp.com/'}>Deployed Website</a>
+            </button>
+
+            <div>
+                <div className='flex-row'>
+                    <img className='project-image project-margin' src={car} />
+                </div>
+            </div>
+
+            <button type='button' className='portfolio-link-button'>
+                <a className='portfolio-link-text'
+                href='https://kill-all-tires.herokuapp.com/'
+                target='_blank'
+                onClick={'https://kill-all-tires.herokuapp.com/'}>Deployed Website</a>
             </button>
 
         </section>
